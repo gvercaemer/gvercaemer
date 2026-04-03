@@ -12,9 +12,9 @@
 
 ## 🧑‍💻 About me
 
-I'm a **Fullstack Engineer** based in **Lille, France**, passionate about building reliable, scalable systems — from clean APIs to complex data pipelines. I thrive at the intersection of backend engineering, data infrastructure, and DevOps.
+I'm a **Fullstack Engineer** based in **Lille, France**, passionate about building reliable, scalable systems, from clean APIs to complex data pipelines. I thrive at the intersection of backend engineering and data infrastructure.
 
-When I'm not shipping features, I'm probably automating something that didn't need to be automated — or exploring a new database I definitely don't need yet.
+When I'm not shipping features, I'm probably automating something that didn't need to be automated or exploring a new database I definitely don't need yet.
 
 ```typescript
 const geoffrey = {
@@ -69,8 +69,8 @@ const geoffrey = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gvercaemer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvercaemer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gvercaemer&theme=tokyonight" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gvercaemer&theme=tokyonight" />
 
 </div>
 
