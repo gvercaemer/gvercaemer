@@ -82,12 +82,6 @@ const geoffrey = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gvercaemer&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<div align="center">
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gvercaemer&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
