@@ -21,7 +21,7 @@ const geoffrey = {
   location: "Lille, France 🇫🇷",
   role: "Fullstack Engineer",
   focus: ["Backend", "Data Engineering", "Platform & Infra"],
-  currentlyLearning: ["ClickHouse internals", "Kafka Streams", "Kestra workflows"],
+  currentlyBuilding: ["ClickHouse internals", "Kafka Streams", "Kestra workflows"],
   funFact: "I've written more YAML than actual code — and I'm proud of it.",
 };
 ```
@@ -54,14 +54,15 @@ const geoffrey = {
 
 ### Orchestration & Workflow
 ![Kestra](https://img.shields.io/badge/Kestra-6C47FF?style=for-the-badge&logo=kestra&logoColor=white)
-![Web Scraping](https://img.shields.io/badge/Web_Scraping-009688?style=for-the-badge&logo=puppeteer&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 ### Infrastructure & Cloud
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
 
 ---
 
